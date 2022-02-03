@@ -2,6 +2,12 @@
 A list of tools which work by replacing part of a URL by something else.
 
 ## List layout
+The table with tools outlines:
+- The name of the tool (or an author provided sentence if there is no official name)
+- A short description of how to use the tool
+- An example that can be tested
+
+## Tools
 
 | Tool  | Description |  Example
 | ------------- | ------------- | ------------- |
